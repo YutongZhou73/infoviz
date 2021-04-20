@@ -6,8 +6,8 @@ Hello All! Here is a demonstration of what a basic webpage would look like after
 <h2>Vega-Lite</h2>
 Observable allows you to embed the visualizations you created easily onto other sites. On the cell of the visualization, click on the three dots located on the left side and select "Embed". If for some reason you do not see this button, go to the very top of the page, click three dots on the right side and select "Switch to Classic"
 Once you copy the code for the embedded visualization, simply copy the code inside html tag. Same process for D3. 
-  <iframe width="100%" height="323" frameborder="0"
-  src="https://observablehq.com/embed/@info247-spring21/vega-lite-assignment-solution?cells=ex3"></iframe>
+  <iframe width="100%" height="613" frameborder="0"
+  src="https://observablehq.com/embed/@yutongzhou73/vega-lite-assignment?cells=ex"></iframe>
   
 <h2>Tableau</h2>
 In order to embed your Tableau dashboard to the sites, you will first have to publish your worksheet to <a href="https://public.tableau.com/en-us/s/">Tableau Public</a>. Once you publish, similar to above step, you will need to copy the embedded html code and paste it here. 
